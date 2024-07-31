@@ -1,0 +1,100 @@
+/* signup.css */
+
+.page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  max-width: 500px;
+  margin: 0 auto;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.inputs {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  width: 600px;
+}
+
+.button {
+  margin-top: 20px;
+}
+
+.button button {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: #fff;
+  cursor: pointer;
+}
+
+.button button:hover {
+  background-color: #007bff;
+}
+
+.error-message {
+  color: red;
+  margin-top: 10px;
+}
+
+.success-message {
+  color: green;
+  margin-top: 10px;
+}
+
+/* signup.css */
+
+/* Adjust the height of TextField */
+.MuiTextField-root {
+  height: 45px; /* Adjust the height as needed */
+}
+
+/* Adjust the input height inside TextField */
+.MuiInputBase-root {
+  height: 50px; /* Adjust the height as needed */
+}
+
+.text {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.btn-txt {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  text-align: center;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+.inputs .button {
+  text-align: center;
+}
+
+.inputs .button button {
+  background-color: #555;
+  border: none;
+  padding: 15px 30px;
+  color: #fff;
+  width: 308px;
+  margin: 10px 0;
+}
+
+
+
+
+
+
+ 
+
+

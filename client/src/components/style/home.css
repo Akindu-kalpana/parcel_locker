@@ -1,0 +1,83 @@
+/* Home.css */
+
+.home {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .header h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .header p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .features {
+    margin-top: 50px;
+  }
+  
+  .features h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .feature {
+    margin-bottom: 30px;
+  }
+  
+  .feature h3 {
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .feature p {
+    font-size: 1.1rem;
+    color: #666;
+  }
+  
+  .call-to-action {
+    margin-top: 50px;
+  }
+  
+  .call-to-action h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .call-to-action p {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .cta-buttons .btn-signup,
+  .cta-buttons .btn-login {
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .cta-buttons .btn-signup:hover,
+  .cta-buttons .btn-login:hover {
+    background-color: #0056b3;
+  }
+  
+  .footer {
+    width: 100%;
+    margin-top: 50px;
+
+    padding: 20px 0;
+    font-size: 1.1rem;
+    color: #666;
+    
+  }
+  

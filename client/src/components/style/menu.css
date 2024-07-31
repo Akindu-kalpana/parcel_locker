@@ -1,0 +1,44 @@
+/* Header styles */
+.header {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+
+.header h1 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: #333; /* Change color as needed */
+}
+
+.header p {
+  color: #666; /* Change color as needed */
+}
+
+.header .logo img {
+  cursor: pointer;
+  width: 100px;
+}
+
+/* Navigation menu styles */
+.menu {
+  background-color: #000;
+  text-align: center;
+  padding: 15px 0;
+}
+
+.menu .menuItem {
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.menu .menuItem a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+  transition: color 0.3s ease; /* Smooth color transition */
+}
+
+.menu .menuItem a:hover {
+  color: #ffcc00; /* Change hover color as needed */
+}
